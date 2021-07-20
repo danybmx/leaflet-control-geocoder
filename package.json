@@ -78,5 +78,8 @@
   },
   "optionalDependencies": {
     "open-location-code": "^1.0.0"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.24"
   }
 }
